@@ -1,2 +1,5 @@
 
 mintplexlabs/anythingllm
+nginx
+mysql
+python
