@@ -2,4 +2,12 @@
 mintplexlabs/anythingllm
 nginx
 mysql
+mysql:5.7
 python
+python:3.13.2-slim
+python:3.10.16-slim
+node
+node:20.18.3-slim
+node:20.18-alpine
+portainer/agent:2.21.5
+portainer/portainer-ce
