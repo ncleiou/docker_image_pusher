@@ -11,3 +11,4 @@ node:20.18.3-slim
 node:20.18-alpine
 portainer/agent:2.21.5
 portainer/portainer-ce
+uozi/nginx-ui
