@@ -65,10 +65,10 @@ redis:7.2
 redis:7
 redis:6.2
 mongo
+mongo:7.0.17
 mongo:7.0.17-windowsservercore-1809
 mongo:7.0.17-nanoserver-ltsc2022
 mongo:7.0.17-nanoserver-1809
-mongo:7.0.17
 gitea/gitea:1.23.4
 gitea/gitea:1.23
 gitlab/gitlab-ce:nightly
