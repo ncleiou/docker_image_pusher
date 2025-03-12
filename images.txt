@@ -1,4 +1,1 @@
-postgres:13.20-bookworm
-postgres:13.20
-postgres:13-bookworm
-postgres:13
+ollama/ollama:0.6.0
