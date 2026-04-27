@@ -1,6 +1,1 @@
-nginx:1.29
-nginx:1.29-alpine
-nginx:1.28
-nginx:1.28-alpine
-nginx:1.27
-nginx:1.27-alpine
+requarks/wiki:2.5
